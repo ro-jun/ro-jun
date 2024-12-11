@@ -13,6 +13,10 @@
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
 
+**백엔드 및 데이터베이스**:  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
+
 **디자인 및 시각화**:  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
 
@@ -32,9 +36,7 @@
 
 ## 📚 학습 중인 기술 📚
 
-**백엔드 및 데이터베이스**:  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white) 
+**컨테이너화 및 오케스트레이션**:  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 
@@ -53,7 +55,4 @@
 ---
 
 👀 계속해서 기술을 학습하며 성장 중입니다. 다양한 프로젝트를 통해 실력을 쌓아가고 있습니다.
-
-
-
 
