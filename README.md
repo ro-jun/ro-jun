@@ -15,6 +15,7 @@
 
 **백엔드 및 데이터베이스**:  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white) 
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=Pinecone&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 
 **디자인 및 시각화**:  
@@ -27,10 +28,17 @@
 **버전 관리 및 도구**:  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) 
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white) 
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white) 
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFB000?style=flat-square&logo=huggingface&logoColor=white) 
+![Miniconda](https://img.shields.io/badge/Miniconda-44A833?style=flat-square&logo=Anaconda&logoColor=white)
 
 **특화된 도구**:  
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=LangChain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=LangChain&logoColor=white) 
+![LangSmith](https://img.shields.io/badge/LangSmith-0052CC?style=flat-square&logo=LangChain&logoColor=white) 
+
+**RAG**  
+[NaiveRAG]
 
 ---
 
@@ -47,10 +55,13 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
 
 **대규모 언어 모델(LLM) 파인튜닝**:  
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFB000?style=flat-square&logo=huggingface&logoColor=white) 
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) 
-![LangSmith](https://img.shields.io/badge/LangSmith-0052CC?style=flat-square&logo=LangChain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-013220?style=flat-square&logo=Pinecone&logoColor=white)
+
+**RAG**  
+[AdvancedRAG, AgentRAG]
 
 ---
 
